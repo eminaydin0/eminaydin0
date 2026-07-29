@@ -13,6 +13,12 @@
   <a href="https://kuraline.xyz">
     <img src="https://img.shields.io/badge/Portfolio-kuraline.xyz-38bdf8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
+  <a href="https://www.linkedin.com/in/emin-ayd%C4%B1n-991139224/">
+    <img src="https://img.shields.io/badge/LinkedIn-Emin_Ayd%C4%B1n-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/emnaydn0">
+    <img src="https://img.shields.io/badge/Instagram-emnaydn0-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
   <a href="https://github.com/eminaydin0">
     <img src="https://img.shields.io/badge/GitHub-Profile-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
   </a>
@@ -30,7 +36,33 @@
 
 ### About
 
-Software developer focused on modern web applications. I build clean, performant UIs and dashboard experiences with React, Next.js, and TypeScript — from admin panels and SaaS interfaces to full product frontends.
+Software developer focused on modern web applications. I build clean, performant UIs and dashboard experiences with React, Next.js, and TypeScript — from admin panels and SaaS interfaces to full product frontends shipped in production.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0D1117&height=80&section=header&text=Featured+Projects&fontSize=28&fontColor=38BDF8&animation=fadeIn" alt="Featured Projects" />
+
+<div align="center">
+
+| Project | What it is | Link |
+| :---: | :---: | :---: |
+| **gaiPsychology** | Bilişsel gelişim platformu — beyin egzersizleri, değerlendirme ve merkez yönetimi | [gaipsychology.com](https://gaipsychology.com/) |
+| **OmegaTree** | Kit takip sistemi — stok ve süreç yönetimi uygulaması | [app.omegatree.com.tr](https://app.omegatree.com.tr/giris) |
+| **Alo Hasar** | Hasar yönetim paneli — Dreaxm AI destekli operasyon sistemi | [app.aloyonetim.com](https://app.aloyonetim.com/) |
+
+<br>
+
+  <a href="https://gaipsychology.com/">
+    <img src="https://img.shields.io/badge/gaiPsychology-Live-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="gaiPsychology" />
+  </a>
+  <a href="https://app.omegatree.com.tr/giris">
+    <img src="https://img.shields.io/badge/OmegaTree-Live-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="OmegaTree" />
+  </a>
+  <a href="https://app.aloyonetim.com/">
+    <img src="https://img.shields.io/badge/Alo_Hasar-Live-38BDF8?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Alo Hasar" />
+  </a>
+
+</div>
+
+<br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:38BDF8,100:0D1117&height=120&section=header&text=Tech+Stack&fontSize=36&fontColor=ffffff&animation=scaleIn&stroke=38BDF8" alt="Tech Stack Section" />
 
