@@ -1,137 +1,136 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:38BDF8,100:0D1117&height=240&section=header&text=Emin%20Ayd%C4%B1n&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Software%20Developer&descSize=22&descAlignY=58&descAlign=50&stroke=38BDF8" alt="Animated Header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:38BDF8,100:0D1117&height=260&section=header&text=Emin%20Ayd%C4%B1n&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Developer&descSize=22&descAlignY=58&descAlign=50&stroke=38BDF8&strokeWidth=1" alt="Animated Header" />
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=680&height=40&lines=Software+Developer+%C2%B7+React+%26+Next.js;Building+Modern+Web+Apps+%26+Dashboards;TypeScript+%C2%B7+Clean+UI+%C2%B7+Solid+Architecture;Turning+Ideas+Into+Production-Ready+Code" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=720&height=45&lines=Software+Developer+%C2%B7+React+%26+Next.js;Building+Modern+Web+Apps+%26+Dashboards;TypeScript+%C2%B7+Clean+UI+%C2%B7+Solid+Architecture;Shipping+Products+People+Actually+Use" alt="Typing Animation" />
 
   <br><br>
 
-  <img src="https://komarev.com/ghpvc/?username=eminaydin0&label=Profile%20Views&color=38bdf8&style=for-the-badge" alt="Profile Views Counter" />
-  <a href="https://github.com/eminaydin0?tab=followers">
-    <img src="https://img.shields.io/github/followers/eminaydin0?label=Followers&style=for-the-badge&color=38bdf8&logo=github" alt="GitHub Followers" />
+  <a href="https://github.com/eminaydin0">
+    <img src="https://img.shields.io/badge/GitHub-eminaydin0-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://kuraline.xyz">
-    <img src="https://img.shields.io/badge/Portfolio-kuraline.xyz-38bdf8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-
-  <br>
-
   <a href="https://www.linkedin.com/in/emin-ayd%C4%B1n-991139224/">
     <img src="https://img.shields.io/badge/LinkedIn-Emin_Ayd%C4%B1n-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/emnaydn0">
     <img src="https://img.shields.io/badge/Instagram-emnaydn0-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://github.com/eminaydin0">
-    <img src="https://img.shields.io/badge/GitHub-Profile-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+  <a href="https://kuraline.xyz">
+    <img src="https://img.shields.io/badge/Portfolio-kuraline.xyz-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 
   <br><br>
 
-  <img src="https://img.shields.io/badge/Role-Software_Developer-38BDF8?style=flat-square&logo=code&logoColor=white" alt="Role" />
-  <img src="https://img.shields.io/badge/Focus-React_%26_Next.js-0D1117?style=flat-square&logo=react&logoColor=61DAFB" alt="Focus" />
-  <img src="https://img.shields.io/badge/Language-TypeScript-38BDF8?style=flat-square&logo=typescript&logoColor=white" alt="Language" />
-  <img src="https://img.shields.io/badge/Building-Dashboards_%26_Web_Apps-0D1117?style=flat-square&logo=vercel&logoColor=white" alt="Building" />
+  <img src="https://komarev.com/ghpvc/?username=eminaydin0&label=Profile%20Views&color=38bdf8&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/eminaydin0?label=Followers&style=flat-square&color=38bdf8&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/badge/Open_to-Collaboration-0D1117?style=flat-square&logo=handshake&logoColor=38BDF8" alt="Open to Collaboration" />
 
 </div>
 
-<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0D1117&height=2&section=header" alt="" />
 
-### About
-
-Software developer focused on modern web applications. I build clean, performant UIs and dashboard experiences with React, Next.js, and TypeScript — from admin panels and SaaS interfaces to full product frontends shipped in production.
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0D1117&height=80&section=header&text=Featured+Projects&fontSize=28&fontColor=38BDF8&animation=fadeIn" alt="Featured Projects" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0D1117&height=90&section=header&text=About+Me&fontSize=32&fontColor=38BDF8&animation=fadeIn" alt="About" />
 
 <div align="center">
 
-| Project | What it is | Link |
-| :---: | :---: | :---: |
-| **gaiPsychology** | Bilişsel gelişim platformu — beyin egzersizleri, değerlendirme ve merkez yönetimi | [gaipsychology.com](https://gaipsychology.com/) |
-| **OmegaTree** | Kit takip sistemi — stok ve süreç yönetimi uygulaması | [app.omegatree.com.tr](https://app.omegatree.com.tr/giris) |
-| **Alo Hasar** | Hasar yönetim paneli — Dreaxm AI destekli operasyon sistemi | [app.aloyonetim.com](https://app.aloyonetim.com/) |
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3200&pause=1200&color=8B949E&center=true&vCenter=true&width=780&height=35&lines=Building+clean%2C+fast+web+apps+with+React%2C+Next.js+%26+TypeScript;From+dashboards+and+SaaS+panels+to+full+product+frontends+in+production" alt="About Typing" />
 
-<br>
-
-  <a href="https://gaipsychology.com/">
-    <img src="https://img.shields.io/badge/gaiPsychology-Live-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="gaiPsychology" />
-  </a>
-  <a href="https://app.omegatree.com.tr/giris">
-    <img src="https://img.shields.io/badge/OmegaTree-Live-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="OmegaTree" />
-  </a>
-  <a href="https://app.aloyonetim.com/">
-    <img src="https://img.shields.io/badge/Alo_Hasar-Live-38BDF8?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Alo Hasar" />
-  </a>
-
-</div>
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:38BDF8,100:0D1117&height=120&section=header&text=Tech+Stack&fontSize=36&fontColor=ffffff&animation=scaleIn&stroke=38BDF8" alt="Tech Stack Section" />
-
-<div align="center">
-
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,tailwind&theme=dark" />
   <br>
-  <img src="https://skillicons.dev/icons?i=vite,redux,express,postgres,mysql,supabase,prisma,postman&theme=dark" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=git,github,npm,pnpm,vscode,vercel,docker,linux&theme=dark" />
+
+  <img src="https://img.shields.io/badge/Role-Software_Developer-38BDF8?style=for-the-badge&logo=code&logoColor=white" alt="Role" />
+  <img src="https://img.shields.io/badge/Stack-React_%7C_Next.js_%7C_TS-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Stack" />
+  <img src="https://img.shields.io/badge/Focus-UI_%2B_Product-38BDF8?style=for-the-badge&logo=figma&logoColor=white" alt="Focus" />
 
 </div>
 
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0D1117&height=80&section=header&text=What+I+Work+On&fontSize=28&fontColor=38BDF8&animation=fadeIn" alt="Work Section" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0D1117&height=90&section=header&text=Featured+Projects&fontSize=32&fontColor=38BDF8&animation=blinking" alt="Featured Projects" />
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/Frontend-React_%7C_Next.js_%7C_TypeScript-38BDF8?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Frontend" />
-  <img src="https://img.shields.io/badge/UI-Tailwind_%7C_Responsive_Design-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" alt="UI" />
-  <img src="https://img.shields.io/badge/APIs-REST_%7C_Auth_%7C_Integrations-38BDF8?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="APIs" />
-  <img src="https://img.shields.io/badge/Products-Dashboards_%7C_SaaS_%7C_Admin_Panels-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Products" />
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <a href="https://gaipsychology.com/">
+          <img src="https://img.shields.io/badge/gaiPsychology-Live-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="gaiPsychology" />
+        </a>
+        <br><br>
+        <b>gaiPsychology</b>
+        <br>
+        <sub>Bilişsel gelişim platformu</sub>
+        <br>
+        <sub>Egzersiz · Değerlendirme · Merkezler</sub>
+        <br><br>
+        <a href="https://gaipsychology.com/">gaipsychology.com</a>
+      </td>
+      <td align="center" width="33%">
+        <a href="https://app.omegatree.com.tr/giris">
+          <img src="https://img.shields.io/badge/OmegaTree-Live-7C3AED?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="OmegaTree" />
+        </a>
+        <br><br>
+        <b>OmegaTree</b>
+        <br>
+        <sub>Kit takip sistemi</sub>
+        <br>
+        <sub>Stok · Süreç · Operasyon</sub>
+        <br><br>
+        <a href="https://app.omegatree.com.tr/giris">app.omegatree.com.tr</a>
+      </td>
+      <td align="center" width="33%">
+        <a href="https://app.aloyonetim.com/">
+          <img src="https://img.shields.io/badge/Alo_Hasar-Live-F97316?style=for-the-badge&logo=react&logoColor=white" alt="Alo Hasar" />
+        </a>
+        <br><br>
+        <b>Alo Hasar</b>
+        <br>
+        <sub>Hasar yönetim paneli</sub>
+        <br>
+        <sub>Dreaxm AI · Operasyon</sub>
+        <br><br>
+        <a href="https://app.aloyonetim.com/">app.aloyonetim.com</a>
+      </td>
+    </tr>
+  </table>
 
 </div>
 
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0D1117&height=80&section=header&text=GitHub+Analytics&fontSize=28&fontColor=38BDF8&animation=fadeIn" alt="GitHub Stats Section" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:38BDF8,100:0D1117&height=110&section=header&text=Tech+Stack&fontSize=36&fontColor=ffffff&animation=scaleIn&stroke=38BDF8" alt="Tech Stack" />
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=eminaydin0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=FFFFFF&rank_icon=percentile&include_all_commits=true&count_private=true" height="195" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eminaydin0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=FFFFFF&langs_count=8" height="195" alt="Top Languages" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,tailwind&theme=dark&perline=8" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=vite,redux,express,postgres,mysql,supabase,prisma,postman&theme=dark&perline=8" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=git,github,npm,pnpm,vscode,vercel,docker,linux&theme=dark&perline=8" />
 
 </div>
 
-<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0D1117&height=90&section=header&text=GitHub+Analytics&fontSize=32&fontColor=38BDF8&animation=fadeIn" alt="GitHub Analytics" />
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.demolab.com/?user=eminaydin0&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E&stroke=38BDF8&currStreakNum=FFFFFF&sideNums=FFFFFF" height="195" alt="GitHub Streak Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=eminaydin0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=FFFFFF&rank_icon=percentile&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eminaydin0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
+
+  <br><br>
+
+  <img height="180" src="https://github-readme-streak-stats.demolab.com/?user=eminaydin0&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E&stroke=38BDF8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
+
+  <br><br>
+
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=eminaydin0&theme=react-dark&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&height=260&custom_title=Contribution+Activity" alt="Activity Graph" />
 
 </div>
 
-<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0D1117&height=90&section=header&text=Achievements&fontSize=32&fontColor=38BDF8&animation=blinking" alt="Achievements" />
 
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eminaydin0&theme=react-dark&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&height=240&custom_title=Contribution+Activity" alt="GitHub Activity Graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=eminaydin0&no-bg=true&row=1&column=7&theme=onedark&margin-w=12&margin-h=12" alt="Trophies" />
 
 </div>
 
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0D1117&height=80&section=header&text=Achievements&fontSize=28&fontColor=38BDF8&animation=blinking" alt="Trophies Section" />
-
-<div align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=eminaydin0&no-bg=true&row=1&column=7&theme=radical&margin-w=15&margin-h=15" alt="Emin's GitHub Trophies" />
-
-</div>
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0D1117&height=80&section=header&text=Contribution+Snake&fontSize=28&fontColor=38BDF8&animation=scaleIn" alt="Snake Section" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0D1117&height=90&section=header&text=Contribution+Snake&fontSize=32&fontColor=38BDF8&animation=scaleIn" alt="Snake" />
 
 <div align="center">
 
@@ -143,8 +142,8 @@ Software developer focused on modern web applications. I build clean, performant
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2200&pause=900&color=8B949E&center=true&vCenter=true&multiline=true&repeat=true&width=680&lines=%3E+const+stack+%3D+['React'%2C+'Next.js'%2C+'TypeScript'];%3E+git+commit+-m+'feat:+ship+it';%3E+console.log('Always+learning.+Always+building.')" alt="Terminal Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2400&pause=1000&color=8B949E&center=true&vCenter=true&width=700&height=40&lines=%3E+const+stack+%3D+%5B'React'%2C+'Next.js'%2C+'TypeScript'%5D;%3E+git+commit+-m+'feat%3A+ship+it';%3E+console.log('Always+learning.+Always+building.')" alt="Terminal Typing" />
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:38BDF8,100:0D1117&height=130&section=footer&text=Building+The+Future%2C+One+Commit+At+A+Time&fontSize=28&fontColor=ffffff&animation=fadeIn&stroke=38BDF8" alt="Animated Footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:38BDF8,100:0D1117&height=140&section=footer&text=Building%20the%20future%2C%20one%20commit%20at%20a%20time&fontSize=24&fontColor=ffffff&animation=fadeIn&stroke=38BDF8" alt="Animated Footer" />
