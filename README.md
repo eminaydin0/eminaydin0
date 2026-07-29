@@ -2,9 +2,9 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=720&lines=Software+Developer+%C2%B7+React+%26+Next.js;Building+Modern+Web+Apps+%26+Dashboards;TypeScript+%C2%B7+Clean+UI+%C2%B7+Solid+Architecture;Turning+Ideas+Into+Production-Ready+Code" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=680&height=40&lines=Software+Developer+%C2%B7+React+%26+Next.js;Building+Modern+Web+Apps+%26+Dashboards;TypeScript+%C2%B7+Clean+UI+%C2%B7+Solid+Architecture;Turning+Ideas+Into+Production-Ready+Code" alt="Typing Animation" />
 
-  <br>
+  <br><br>
 
   <img src="https://komarev.com/ghpvc/?username=eminaydin0&label=Profile%20Views&color=38bdf8&style=for-the-badge" alt="Profile Views Counter" />
   <a href="https://github.com/eminaydin0?tab=followers">
@@ -13,6 +13,9 @@
   <a href="https://kuraline.xyz">
     <img src="https://img.shields.io/badge/Portfolio-kuraline.xyz-38bdf8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
+
+  <br>
+
   <a href="https://www.linkedin.com/in/emin-ayd%C4%B1n-991139224/">
     <img src="https://img.shields.io/badge/LinkedIn-Emin_Ayd%C4%B1n-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
