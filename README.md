@@ -4,8 +4,8 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Instrument+Sans&amp;weight=400&amp;size=16&amp;duration=4200&amp;pause=2000&amp;color=A1A1A6&amp;vCenter=true&amp;width=300&amp;height=30&amp;lines=Dashboards,+CRM,+and+support+tools;Currently+at+Havaist,+Istanbul;The+longer+story+is+on+the+site" />
-  <img alt="Dashboards, CRM, and support tools. Currently at Havaist, Istanbul. The longer story is on the site." src="https://readme-typing-svg.demolab.com?font=Instrument+Sans&amp;weight=400&amp;size=16&amp;duration=4200&amp;pause=2000&amp;color=6E6E73&amp;vCenter=true&amp;width=300&amp;height=30&amp;lines=Dashboards,+CRM,+and+support+tools;Currently+at+Havaist,+Istanbul;The+longer+story+is+on+the+site" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Instrument+Sans&amp;weight=400&amp;size=16&amp;duration=4200&amp;pause=2000&amp;color=A1A1A6&amp;vCenter=true&amp;width=300&amp;height=30&amp;lines=Dashboards,+CRM,+and+support+tools;Currently+at+Havaist,+Istanbul;Havaist+Destek,+YES.Tools,+AloHasar;GAI+Psychology+and+Omega+Tree" />
+  <img alt="Dashboards, CRM, and support tools. Currently at Havaist, Istanbul. Havaist Destek, YES.Tools, AloHasar. GAI Psychology and Omega Tree." src="https://readme-typing-svg.demolab.com?font=Instrument+Sans&amp;weight=400&amp;size=16&amp;duration=4200&amp;pause=2000&amp;color=6E6E73&amp;vCenter=true&amp;width=300&amp;height=30&amp;lines=Dashboards,+CRM,+and+support+tools;Currently+at+Havaist,+Istanbul;Havaist+Destek,+YES.Tools,+AloHasar;GAI+Psychology+and+Omega+Tree" />
 </picture>
 
 I build the operational systems behind products. Dashboards, CRM and ERP platforms, and AI-assisted tools, on web and mobile. Most of the work is React, Next.js, and TypeScript.
@@ -52,3 +52,12 @@ Computer Programming, Amasya University.
 **In the product** — REST, Socket.IO, Git
 
 Open to product collaborations. The fuller picture is on [eminaydin.site](https://www.eminaydin.site/).
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eminaydin0/eminaydin0/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="A snake moving through the GitHub contribution graph." src="https://raw.githubusercontent.com/eminaydin0/eminaydin0/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
