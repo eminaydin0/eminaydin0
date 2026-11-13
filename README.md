@@ -3,6 +3,11 @@
   <img alt="Emin Aydın. Software developer. React, Next.js, TypeScript. Turkey." src="./assets/header-light.svg" width="100%" />
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Instrument+Sans&amp;weight=400&amp;size=16&amp;duration=4200&amp;pause=1800&amp;color=A3A3A3&amp;vCenter=true&amp;width=300&amp;height=30&amp;lines=Dashboards,+panels,+and+product+UI;Shipped,+and+kept+in+production;Open+to+the+next+collaboration" />
+  <img alt="Dashboards, panels, and product UI. Shipped, and kept in production. Open to the next collaboration." src="https://readme-typing-svg.demolab.com?font=Instrument+Sans&amp;weight=400&amp;size=16&amp;duration=4200&amp;pause=1800&amp;color=6A6A6A&amp;vCenter=true&amp;width=300&amp;height=30&amp;lines=Dashboards,+panels,+and+product+UI;Shipped,+and+kept+in+production;Open+to+the+next+collaboration" />
+</picture>
+
 I build the interface of products that stay in use. Operational dashboards, admin panels, and customer-facing web applications, taken through to production.
 
 [GitHub](https://github.com/eminaydin0) · [LinkedIn](https://www.linkedin.com/in/emin-ayd%C4%B1n-991139224/) · [Instagram](https://www.instagram.com/emnaydn0) · [kuraline.xyz](https://kuraline.xyz)
